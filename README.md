@@ -27,3 +27,6 @@
   </li>
   <li>Open the index.html file in a web browser to view the project.</li>
 </ol>
+
+<h1>Screenshots</h1>
+<img src="https://i.imgur.com/vcBdnPR.png">
